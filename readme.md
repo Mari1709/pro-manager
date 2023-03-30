@@ -83,7 +83,7 @@ docker-desktop   Ready    control-plane   117d   v1.24.2
 ```
 git clone https://github.com/Backendless/pro-manager.git
 ```
-- Go to the folder code
+- Go to the folder pro-manager
 - Execute 
 ```
   npm i
